@@ -1,0 +1,11 @@
+name: xJob
+version: 1.0.0
+main: flxxd.xJob.Main
+api-version: 1.18
+depend: [ Chatty ]
+authors: [ flxxd ]
+description: simple suffix setter, using Chatty API (for RolePlay servers)
+website: tech.flink.gq/xjob
+commands:
+  job:
+    aliases: ["xjob"]
